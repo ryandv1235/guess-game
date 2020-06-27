@@ -29,3 +29,4 @@ while guess != secret:
 		count += 1
 
 print("It took you " + str(count) + " Times.")
+print("GG well played!")
